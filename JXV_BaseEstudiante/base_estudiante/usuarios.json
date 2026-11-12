@@ -1,0 +1,12 @@
+[
+  {
+    "usuario": "$argon2id$v=19$m=19456,t=2,p=1$MgHRHW40sbYMi/xwsMmMrA$cPSg+jX1ZIw3q5vr5+1L925D+bvTMO/kylu7Nb0v5jg",
+    "rol": "admin",
+    "clave": "$argon2id$v=19$m=19456,t=2,p=1$iSybivhhR5TEPuyHDThpeA$b6ZzbpXtohyRPNisRhhenrdS+otaon6sauP4s9XIv2Q"
+  },
+  {
+    "usuario": "$argon2id$v=19$m=19456,t=2,p=1$1ViDw/HOJ64WHlKCn+fpHw$zicnkB045CrJicZRcuCSM//NV4xflF6vOuHtEVsPQ/k",
+    "rol": "user",
+    "clave": "$argon2id$v=19$m=19456,t=2,p=1$Ewbf03l06N6Sol0W7vYlfQ$ifNPKVar7Ws9Co/l7djnY55hHV16nif2SEzUD/TzPhE"
+  }
+]
